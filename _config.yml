@@ -25,7 +25,7 @@ description: A vision to teach Technology the fun way!
 navbar-links:
   About Me: "aboutme"
   Open Learning: "openlearning"
-  Projects: "mandovision.hashnode.dev"
+  Projects: "https://mandovision.hashnode.dev/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
