@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://kratzert.github.io"
+url: "https://kushalpagolu.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Flair of Machine Learning
+title: mandovision
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A vision to teach Technology the fun way!
 
 # --- Navigation bar options --- #
 
@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Open Learning: "openlearning"
-  Projects: "projects"
+  Projects: "mandovision.hashnode.dev"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -87,7 +87,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kratzert.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "kushalpagolu.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
