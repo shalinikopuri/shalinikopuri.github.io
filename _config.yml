@@ -59,9 +59,9 @@ avatar: "/img/avatar.jpg"
 author:
   name: Kushal Pagolu
   email: "kushal.pagolu@gmail.com"
-  github: https://github.com/kushalpagolu
+  github: kushalpagolu
   twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
+  linkedin: in/kushal-pagolu-5602a11b6/
   xing: yourname
   stackoverflow: yourlink
 
@@ -94,7 +94,7 @@ url-pretty: "kushalpagolu.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "kratzertblog"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-96660715-1"
+# google_analytics: "UA-96660715-1"
 
 # Google Tag Manager ID
 #gtm: ""
