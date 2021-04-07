@@ -17,7 +17,6 @@ bigimg:
   - "/img/big-imgs/UIHX6222.JPG" : "Jackson, Khammam, 2016"
   - "/img/big-imgs/IMG_8468.JPG" : "Universal Studios, 2019"
   - "/img/big-imgs/IMG_8467.JPG" : "With Spidey, 2019"
-  - "/img/big-imgs/AIFishing2.jpg" : "Fishing Apostle Islands"
 ---
 
 <div style="text-align:center">
