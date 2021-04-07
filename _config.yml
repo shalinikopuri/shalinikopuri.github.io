@@ -23,9 +23,9 @@ description: A vision to teach Technology the fun way!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://www.linkedin.com/in/kushal-pagolu-5602a11b6/"
+  LinkedIn: "https://www.linkedin.com/in/kushal-pagolu-5602a11b6/"
   Learn Swift: "https://mandovision.hashnode.dev/best-resources-to-learn-swift"
-  Projects: "https://mandovision.hashnode.dev/"
+  Personal Blog: "https://mandovision.hashnode.dev/"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "avatar.png"
+avatar: "avatar.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
