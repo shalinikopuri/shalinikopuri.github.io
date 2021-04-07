@@ -1,5 +1,12 @@
 
 
+---
+title: The MVVM Paradigm
+subtitle: It's use in Swift
+---
+
+
+
 This is a brief post on how MVVM can be implemented in a new project,be it an app or a website, MVVM is a way you can separate your Business Logic from your Data.
 Before I get into more details about how it is implemented in SwifUI, I will try to explain the basics of this pattern.
 
