@@ -24,6 +24,7 @@ description: A vision to teach Technology the fun way!
 
 # List of links in the navigation bar
 navbar-links:
+  About Me: "aboutme"
   LinkedIn: "https://www.linkedin.com/in/kushal-pagolu-5602a11b6/"
   Learn Swift: "https://mandovision.hashnode.dev/best-resources-to-learn-swift"
   Personal Blog: "https://mandovision.hashnode.dev/"
