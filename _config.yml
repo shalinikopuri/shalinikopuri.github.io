@@ -5,7 +5,8 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "https://kushalpagolu.github.io"
-baseurl: ""
+baseurl: "https://mandovision.hashnode.dev/"
+theme: merlot
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
