@@ -2,7 +2,6 @@
 
 title: The MVVM Paradigm
 subtitle: It's use in Swift
-theme: merlot
 
 ---
 
