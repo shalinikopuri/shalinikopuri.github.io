@@ -2,7 +2,7 @@
 ---
 
 title: Closures in Swift
-subtitle: Everything under the hood is a closure in Swift.
+subtitle: Everything under the hood is a closure in Swift
 
 ---
 
