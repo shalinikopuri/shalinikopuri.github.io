@@ -4,5 +4,13 @@ title: About me
 subtitle:
 ---
 
-I recently started a PhD in machine/deep learning at the [Institut of Bioinformatics](http://www.bioinf.jku.at/) of the Johannes Kepler University in Linz, Austria in the team of Sepp Hochreiter.
-Previously I worked at the Institute of Water Management, Hydrology and Hydraulic Engineering at the BOKU University in Vienna, as a research assistant. I did my Master in environmental engineering ant the topic of my Master thesis was the development of a software as part of a semi-automatic monitoring system for fish migration in fish passes. The thesis can be found [here](http://permalink.obvsg.at/bok/AC13359496) (in German only). In my time as research assistant at the BOKU university I mostly worked on machine learning applications in the field of hydrology and environmental sciences.
+Over 8 years of experience in consulting with reputed organizations working closely with Fortune 500 clients. Have great communication skills and an ability to simplify complex problems. 
+
+Over 6 years of experience in PEGA PRPC with great understanding of PEGA as a product.
+Affirming the same I have grabbed 3 certifications(CSA,CSSA and CPDC) and on my way for 2 more.
+
+Blockchain enthusiast and have in depth understanding of Bitcoin and Ethereum crypto currencies.Have worked on Pega Ethereum Blockchain Component.
+
+GO CLEAN GO GREEN
+
+Use my referral link to receive 1,000 free Supercharger miles with the purchase and delivery of a new Tesla car, or earn a $100 award after system activation by purchasing or subscribing to solar panels: https://ts.la/kushal14199
