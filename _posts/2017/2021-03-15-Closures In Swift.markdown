@@ -1,11 +1,9 @@
-
 ---
 
 title: Closures in Swift
 subtitle: Everything under the hood is a closure in Swift
 
 ---
-
 
 
 After writing about functions in my previous [blogpost](https://mandovision.hashnode.dev/functions-in-swift), I am inclined to discuss **Closures** next. After all, I generously used closures in many examples without understanding the nuances of the syntax. The syntax and its variations piqued my interest and pushed me to understand closures more. Swift uses closures extensively and pushes towards low code by cleverly implementing closures underneath. In fact every function is dealt as a closure while compiling a program in Swift. I had a really good time with closures these past few days and here is my experience with it.
