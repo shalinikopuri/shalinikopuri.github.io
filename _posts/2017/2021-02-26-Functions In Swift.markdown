@@ -1,3 +1,12 @@
+---
+
+title: Functions in Swift
+subtitle: The Building blocks of Functional Programming
+
+---
+
+
+
 **Functions** in Swift perform various tasks just like functions in any other programming language. They can print a simple "Hello User* !" message, calculate state tax, or even perform complex operations on objects.
 
 Functions make it easy to segregate large programs into small units of re-usable code. This code performs a small task that the entire app or the project requires regularly and the task is part of a much bigger process/requirement, which we achieve with our application on the whole.
