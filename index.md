@@ -6,7 +6,7 @@ css: "/css/index.css"
 meta-title: "Kushal Pagolu"
 meta-description: "Pega Senior System Architect and Decisioning Consultant"
 bigimg:
-  - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
+  - "/img/big-imgs/EOVT6486.jpg" : "Fashionista, 2017"
   - "/img/big-imgs/Arizona_2017b.jpg" : "Arizona, 2017"
   - "/img/big-imgs/MuskegSunset17.JPG" : "Winter Sunset, Muskeg, 2017"
   - "/img/big-imgs/Vancouver2.jpg" : "Vancouver Island, 2016"
