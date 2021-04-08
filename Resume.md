@@ -2,7 +2,7 @@
 
 ## Summary:
 
-- Accumilated over 8 years of total experience in the IT industry.
+- Accumulated over 8 years of total experience in the IT industry.
 - Over 6 years of relevant experience as Pega PRPC System Architect.
 - Have more than 1 year of onshore experience working closely with the business and also managing an offshore
     team.
@@ -25,13 +25,13 @@
 - Approached a client for Mindfulness Website/App idea. Has done significant research and the presentation came
     out with positive response from the client.
 - PFA for the presentation/s used to convince the Client.
-    o Drive -https://drive.google.com/drive/folders/1wkdJg2RDXBywC5bdJ8lweCf8BhjP4Wd8?usp=sharing
+    o Drive -[link](https://drive.google.com/drive/folders/1wkdJg2RDXBywC5bdJ8lweCf8BhjP4Wd8?usp=sharing)
 - Blockchain technology enthusiast, wrote a white paper for KYC FW application using the same.
 - PFA for the documents and screenshots in the below link.
-    o Drive - https://drive.google.com/drive/folders/1MoZEPgz1SKwUiRD9uc6k0xwEvJPqOwxq?usp=sharing
+    o Drive - [link](https://drive.google.com/drive/folders/1MoZEPgz1SKwUiRD9uc6k0xwEvJPqOwxq?usp=sharing)
 - Learning Swift programming language and as a part of it started blogging.
-- Personal Blog **–** https://mandovision.hashnode.dev
-- Github Page **–** https://kushalpagolu.github.io
+- Personal Blog **–** [Blog](https://mandovision.hashnode.dev)
+- Github Page **–** [Personal Page](https://kushalpagolu.github.io)
 
 ## Skills:
 
@@ -49,7 +49,7 @@
 
 ## Certifications:
 
-https://academy.pega.com/verify-certification?email=kushal.pagolu%40gmail.com
+[Certification](https://academy.pega.com/verify-certification?email=kushal.pagolu%40gmail.com)
 
 - Certified Pega Decisioning Consultant (v7.4) in July 2019.
 - Certified Senior System Architect (v7.1) in September 2015.
@@ -249,21 +249,35 @@ Technology: SAP CRM, TPM, Java and J2EE.
 ## Personal Details
 
 Name - Kushal Pagolu
+
 Date of Birth - Sept- 24 - 1988
+
 Gender - Male
+
 VISA L2 – EAD (Approved upto January 31st 2022 and awaiting Physical Card)
+
 VISA ID – SRC 2010450943 , SRC2010451011 Case Id for USCIS
+
 Nationality - Indian
+
 Passport Old- H3 206762 (Old Expired)
+
 Passport – S 0679985 ( **New** )
+
 Passport Expiry – 02/12/2028.
+
 Marital Status – Married.
+
 Mobile - +1- 305 - 699 - 7282.
 
 Present Address :
+
 6600 Kitten Lake Drive
+
 Apt # 806
+
 Midland, Georgia
-Zip code **–** 3 1820.
+
+Zip code – 31820.
 
 
