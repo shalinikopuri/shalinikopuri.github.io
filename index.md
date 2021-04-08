@@ -22,6 +22,6 @@ bigimg:
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
 <a href="/resources/Kushal 2021 Resume.pdf" role="button" class="btn btn-primary">Resume</a> 
-<a href="" role="button" class="btn btn-primary">White Paper</a> 
+<a href="/resources/whitepaper" role="button" class="btn btn-primary">White Paper</a> 
 <a href="http://mandovision.hashnode.dev" role="button" class="btn btn-primary">Blog</a> 
 </div>
