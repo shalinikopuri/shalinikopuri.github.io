@@ -17,4 +17,4 @@ Use my referral link to receive 1,000 free Supercharger miles with the purchase 
 
 
 ### Profiles
-* [Resume](Resume.pdf)
+* ![Resume](Resume.pdf)
