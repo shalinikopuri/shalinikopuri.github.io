@@ -1,4 +1,3 @@
-## Kushal Pagolu
 
 ## Summary:
 
