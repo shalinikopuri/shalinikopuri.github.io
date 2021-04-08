@@ -13,7 +13,7 @@ Blockchain enthusiast and have in depth understanding of Bitcoin and Ethereum cr
 
 GO CLEAN GO GREEN
 
-Use my referral link to receive 1,000 free Supercharger miles with the purchase and delivery of a new Tesla car, or earn a $100 award after system activation by purchasing or subscribing to solar panels: https://ts.la/kushal14199
+Use my referral link to receive 1,000 free Supercharger miles with the purchase and delivery of a new Tesla car, or earn a $100 award after system activation by purchasing or subscribing to solar panels: [https://ts.la/kushal14199](https://ts.la/kushal14199)
 
 
 ### Profiles
