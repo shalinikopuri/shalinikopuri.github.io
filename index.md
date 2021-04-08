@@ -12,7 +12,7 @@ bigimg:
   - "/img/big-imgs/FZMU3049.JPG" : "Las Vegas, Stratosphere 2018"
   - "/img/big-imgs/IMG_8470.JPG" : "Marvel Ride, 2019"
   - "/img/big-imgs/IMG_E8562.JPG" : "Potter Head, 2019"
-  - "/img/big-imgs/KVGS6778.jpg" : "Vegas Streets, 2018"
+  - "/img/big-imgs/KVGS6778.jpg" : "Men In Black, 2016"
   - "/img/big-imgs/IMG_5258.JPG" : "Beardo, USTRA Brand, 2016"
   - "/img/big-imgs/UIHX6222.JPG" : "Jackson, Khammam, 2016"
   - "/img/big-imgs/IMG_8468.JPG" : "Universal Studios, 2019"
