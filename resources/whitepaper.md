@@ -1,4 +1,9 @@
-# Blockchain POC
+---
+layout: page
+title: Blockchain POC PEGA
+subtitle:
+---
+
 
 By Kushal Pagolu
 
