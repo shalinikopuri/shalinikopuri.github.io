@@ -17,6 +17,6 @@ Use my referral link to receive 1,000 free Supercharger miles with the purchase 
 
 
 ### Profiles
-* [Resume](Resume.md)
-* [Testing](https://github.com/kushalpagolu/kushalpagolu.github.io/blob/master/resources/Kushal%202021%20Resume.pdf)
-* [embed]/resources/Kushal 2021 Resume.pdf [/embed]
+* [Resume](Resume)
+* [Testing](resources/Kushal 2021 Resume.pdf)
+# * [embed]/resources/Kushal 2021 Resume.pdf [/embed]
