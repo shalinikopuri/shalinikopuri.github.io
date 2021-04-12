@@ -6,7 +6,6 @@ css: "/css/index.css"
 meta-title: "Kushal Pagolu"
 meta-description: "Pega Senior System Architect and Decisioning Consultant"
 bigimg:
-  - "/img/big-imgs/EOVT6486.JPG" : "Fashionista, 2017"
   - "/img/big-imgs/NZPX4519.JPG" : "Pony Tail, 2017"
   - "/img/big-imgs/DF1A6941.JPG" : "Sunset, Hyderabad, 2017"
   - "/img/big-imgs/FZMU3049.JPG" : "Las Vegas, Stratosphere 2018"
