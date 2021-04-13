@@ -4,12 +4,11 @@ title: About me
 subtitle:
 ---
 
-Over 8 years of experience in consulting with reputed organizations working closely with Fortune 500 clients. Have great communication skills and an ability to simplify complex problems. 
+Over 10 years of experience in consulting with reputed organizations working closely with Fortune 500 clients. Have great communication skills and an ability to simplify complex problems. 
 
-Over 6 years of experience in PEGA PRPC with great understanding of PEGA as a product.
-Affirming the same I have grabbed 3 certifications(CSA,CSSA and CPDC) and on my way for 2 more.
+Over 10 years of experience in PEGA PRPC with great understanding of PEGA as a product.
+Affirming the same I have grabbed 3 certifications(CLSA,CSSA and CSA) and on my way for 1 more.
 
-Blockchain enthusiast and have in depth understanding of Bitcoin and Ethereum crypto currencies.Have worked on Pega Ethereum Blockchain Component.
 
 GO CLEAN GO GREEN
 
