@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Kushal Pagolu 
+title: Shalini Kopuri 
 subtitle: Senior System Architect / Decisioning Consultant / Tech Enthusiast
 css: "/css/index.css"
-meta-title: "Kushal Pagolu"
+meta-title: "Shalini Kopuri"
 meta-description: "Pega Senior System Architect and Decisioning Consultant"
 bigimg:
   - "/img/big-imgs/NZPX4519.JPG" : "Pony Tail, 2017"
@@ -16,11 +16,11 @@ bigimg:
   - "/img/big-imgs/UIHX6222.JPG" : "Jackson, Khammam, 2016"
   - "/img/big-imgs/IMG_8468.JPG" : "Universal Studios, 2019"
   - "/img/big-imgs/IMG_8467.JPG" : "With Spidey, 2019"
----
+---]-=\
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="/resources/Kushal P Resume.pdf" role="button" class="btn btn-primary">Resume</a> 
+<a href="/resources/" role="button" class="btn btn-primary">Resume</a> 
 <a href="/resources/whitepaper" role="button" class="btn btn-primary">White Paper</a> 
 <a href="http://mandovision.hashnode.dev" role="button" class="btn btn-primary">Blog</a> 
 </div>
